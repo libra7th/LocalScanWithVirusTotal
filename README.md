@@ -1,2 +1,2 @@
 # LocalScanWithVirusTotal
-Malware Scanning Using VirusTotal
+Malware Scanning with VirusTotal API
